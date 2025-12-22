@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Short Text Classification with Deep Neural Networks: An Exerimental Analysis"
+title:  "Short Text Classification with Deep Neural Networks: An Experimental Analysis"
 authors: Iris C. Liu
 venue: CityU Best Student Paper
 date:   2017-06-01 22:21:59 +00:00
